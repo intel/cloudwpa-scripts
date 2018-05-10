@@ -1,0 +1,10 @@
+<network>
+  <name>rwpa_vnet</name>
+  <uuid>0609c559-90f1-4ce9-ba71-6bff7c638c68</uuid>
+  <bridge name='rwpa_virbr1' stp='on' delay='0'/>
+  <mac address='52:54:00:5b:f1:81'/>
+  <domain name='rwpa_vnet'/>
+  <ip address='192.168.131.1' netmask='255.255.255.0'>
+  </ip>
+</network>
+
